@@ -1,0 +1,60 @@
+# A principle part can be expressed as a single verm form, e.g. αγω,
+# but there are ways to add extra information as needed:
+#
+# If a principal part is missing, indicate this is the case with a hyphen: -
+#
+# To show two alternative forms:
+#
+# λεξω+ερεω
+#
+# *Note that future contracts are written out in the same way that present
+# contracts are.
+#
+# To show an irregular augmented (or unaugmented in the case of pp 3 and 6)
+# *stem*, i.e. what is after the "-" has no ending
+#
+# ὁραω-ἑωρα 
+#
+# To show the stem explicitly:
+#
+# πεπεμμαι#πεπεμπ
+#
+# These various operations can be combined:
+#
+# a#b-c+e
+#
+# This is parsed like this:
+#
+# (((a#b)-(c))+e)
+#
+# There is no need to indicate smooth breathings on the principal part, but 
+# explicit rough breathings are required
+# 
+lead leads leading led led αγω αξω ηγαγον-αγαγ ηχα ηγμαι ηχθην-αχθ
+hear hears hearing heard heard ακουω ακουσομαι ηκουσα-ακουσ ακηκοα - -
+sin sins sinning sinned sinned ἁμαρτανω ἁμαρτησομαι ἡμαρτον-ἁμαρτ ἡμαρτηκα ἡμαρτημαι ἡμαρτηθην-ἁμαρτηθ
+#open opens opening opened opened ανοιγω-ανεῳγ ανοιξω ανεῳξα-ανοιξ ανεῳχα-ανεῳχ ανεῳγμαι-ανεῳγ ανεῳχθην-ανεῳχθ
+kill kills killing killed killed x αποκτεινω αποκτενεω απεκτεινα απεκτονα-απεκτον - -
+die dies dying died died x αποθνῃσκω αποθανουμαι απεθανον X τεθνηκα - -
+beget begets begetting begot begotten γενναω γεννησω εγεννησα γεγεννηκα γεγεννημαι εγεννηθην
+write writes writing wrote written γραφω γραψω εγραψα γεγραφα γεγραμμαι εγραφην
+show shows showing showed shown δηλοω δηλωσω εδηλωσα δεδηλωκα δεδηλωμαι εδηλωθην
+serve serves serving served served δουλευω δουλευσω εδουλευσα δεδουλευκα δεδουλευμαι εδουλευθην
+want wants wanting wanted wanted εθελω εθελησω ηθελησα-εθελησ ηθεληκα - -
+rebuke rebukes rebuking rebuked rebuked x επιπληττω επιπληξα επεπληξα επιπεπληγα επιπεπληγμαι επεπληχθην
+ask asks asking asked asked ερωταω ερωτησω ηρωτησα ηρωτηκα ηρωτημαι ηρωτηθην
+find finds finding found found εὑρισκω εὑρησω εὑρον+ηὑρον εὑρηκα+ηὑρηκα εὑρημαι+ηὑρημαι εὑρεθην+ηὑρεθην
+have haves having had had εχω ἑξω+σχησω εσχον-εσχ εσχηκα εσχημαι εσχηθην
+sacrifice sacrifices sacrificing sacrificed sacrificed θυω θυσω εθυσα τεθυκα τεθυμαι ετυθην
+carry carries carrying carried carried κομιζω κομιεω εκομισα κεκομικα κεκομισμαι εκομισθην
+judge judges judging judged judged κρινω κρινεω εκρινα κεκρικα κεκριμαι εκριθην
+take takes taking took taken λαμβανω ληψομαι ελαβον ειληφα ειλημμαι εληφθην
+say says saying said said λεγω λεξω+ερεω ειπον-ειπ+ελεξα ειρηκα ειρημαι+λελεγμαι ερρηθην+ελεχθην
+see sees seeing saw seen ὁραω-ἑωρα οψομαι ειδον-ιδ ἑορακα-ἑορακ+ἑωρακα-ἑωρακ ἑωραμαι-ἑωρα+ωμμαι-ωπ ωφθην-οφθ
+send sends sending sent sent πεμπω πεμψω επεμψα πεπομφα πεπεμμαι#πεπεμπ επεμφθην
+trust trusts trusting trusted trusted πιστευω πιστευσω επιστευσα-πιστευσ πεπιστευκα πεπιστευμαι επιστευθην-πιστευθ
+hurl hurls hurling hurled hurled ριπτω ριψω ερριψω ερριφα ερριμμαι ερριφθην
+honour honours honouring honoured honoured τιμαω τιμησω ετιμησα τετιμηκα τετιμημαι ετιμηθην
+bear bears bearing bore born φερω οισω ηνεγκα+ηνεγκον ενηνοχα ενηνεγμαι ηνεχθην
+love loves loving loved loved φιλεω φιλησω εφιλησα πεφιληκα πεφιλημαι εφιληθην
+help helps helping helped helped ωφελεω ωφελησω ωφελησα ωφεληκα ωφελημαι ωφεληθην
